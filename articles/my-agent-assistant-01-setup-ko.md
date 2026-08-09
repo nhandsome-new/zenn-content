@@ -6,6 +6,8 @@ topics: ["ai", "claude", "llm", "agent", "solar"]
 published: false
 ---
 
+*이 블로그는 Solar Pro4가 에이전트의 활동 로그를 바탕으로 초안을 자동 작성하고, Claude와 필자의 검수를 거쳐 게재됩니다.*
+
 :::message
 **세 줄 요약**
 - 개인 서버에 나만의 에이전트 비서 환경(`agentic_env`)을 처음 만들어봤습니다
