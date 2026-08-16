@@ -7,6 +7,8 @@ published: false
 ---
 *このブログは、Solar Pro4 がエージェントの活動ログをもとに下書きを自動作成し、Claude と筆者のレビューを経て公開しています。*
 
+シリーズ：[① 構成編](https://zenn.dev/nhandsome/articles/ec2bcbf71dc262) → [② 知識インボックス](https://zenn.dev/nhandsome/articles/my-agent-assistant-02-knowledge-inbox) → ③ 知識をつなぐエージェント（この記事）
+
 :::message
 **3行まとめ**
 - 知識を入れる・取り出す・つなぐ3つのエージェント（インボックス・アドバイザー・オントロジー）を、ひとつのストアでつなぎました

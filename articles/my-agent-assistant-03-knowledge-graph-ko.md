@@ -7,6 +7,8 @@ published: false
 ---
 *이 블로그는 Solar Pro4가 에이전트의 활동 로그를 바탕으로 초안을 자동 작성하고, Claude와 필자의 검수를 거쳐 게재됩니다.*
 
+시리즈: [① 구성편](https://zenn.dev/nhandsome/articles/ec2bcbf71dc262) → [② 지식 인박스](https://zenn.dev/nhandsome/articles/my-agent-assistant-02-knowledge-inbox) → ③ 내 지식을 잇는 에이전트 (이 글)
+
 :::message
 **세 줄 요약**
 - 지식을 넣고·꺼내고·잇는 세 에이전트(인박스·어드바이저·온톨로지)를 저장소 하나로 연결했습니다
