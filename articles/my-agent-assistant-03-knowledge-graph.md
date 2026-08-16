@@ -3,7 +3,7 @@ title: "自分だけのエージェント秘書を作る ③ 知識をつなぐ�
 emoji: "🤖"
 type: "idea"
 topics: ["ai", "claude", "llm", "agent", "upstage"]
-published: false
+published: true
 ---
 *このブログは、Solar Pro4 がエージェントの活動ログをもとに下書きを自動作成し、Claude と筆者のレビューを経て公開しています。*
 
