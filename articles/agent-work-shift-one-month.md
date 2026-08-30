@@ -3,7 +3,7 @@ title: "エージェントと過ごした1か月、朝ごはんが錠剤にな�
 emoji: "💊"
 type: "idea"
 topics: ["ai", "llm", "agent", "productivity"]
-published: false
+published: true
 ---
 *このブログは、エージェントの活動ログをもとに下書きを自動作成し、筆者のレビューを経て公開しています。*
 
