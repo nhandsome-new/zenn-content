@@ -8,7 +8,9 @@ published: false
 *이 블로그는 에이전트가 자료 대조와 실험을 거쳐 초안을 작성하고, 필자의 검수를 거쳐 게재됩니다.*
 
 :::message
-같은 메일 분류 과제를 **TypeSafe Jev**와 업스테이지 [Solar Mini4](https://console.upstage.ai/docs/models/solar-mini-4)에 돌려봤습니다. 정확도는 Solar Mini4가 1~5p 높고 속도는 Jev가 9~10배 빠릅니다. 승패보다 **Jev를 어디에 쓸 수 있을지** 감을 잡기 위한 기록입니다.
+- 같은 메일 분류 과제를 **TypeSafe Jev**와 업스테이지 [Solar Mini4](https://console.upstage.ai/docs/models/solar-mini-4)에 돌려봤습니다
+- 정확도는 Solar Mini4가 1~5p 높고, 속도는 Jev가 9~10배 빠릅니다
+- 승패보다 **Jev를 어디에 쓸 수 있을지** 감을 잡기 위한 기록입니다
 :::
 
 지난 글에서 문장을 만들지 않고 판단과 확률만 돌려주는 모델을 정리했습니다.

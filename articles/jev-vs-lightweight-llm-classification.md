@@ -8,7 +8,9 @@ published: false
 *このブログは、エージェントが資料の突き合わせと実験を行って下書きを作り、筆者が確認したうえで掲載しています。*
 
 :::message
-同じメール分類タスクを **TypeSafe Jev** と Upstage の **[Solar Mini4](https://console.upstage.ai/docs/models/solar-mini-4)** に投げてみました。正解率は Solar Mini4 が1〜5p高く、速度は Jev が9〜10倍速いという結果です。勝ち負けよりも、**Jev をどこに使えるか**を探るための記録です。
+- 同じメール分類タスクを **TypeSafe Jev** と Upstage の [Solar Mini4](https://console.upstage.ai/docs/models/solar-mini-4) に投げてみました
+- 正解率は Solar Mini4 が1〜5p高く、速度は Jev が9〜10倍速いという結果です
+- 勝ち負けよりも、**Jev をどこに使えるか**を探るための記録です
 :::
 
 前回の記事で、文を作らずに判断と確率だけを返すモデルについて整理しました。
