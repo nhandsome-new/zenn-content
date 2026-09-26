@@ -3,7 +3,7 @@ title: "JevとSolar Mini4に同じ分類タスクを投げてみた"
 emoji: "⚖️"
 type: "tech"
 topics: ["ai", "llm", "typesafe", "upstage", "benchmark"]
-published: false
+published: true
 ---
 *このブログは、エージェントが資料の突き合わせと実験を行って下書きを作り、筆者が確認したうえで掲載しています。*
 
