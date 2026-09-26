@@ -25,7 +25,9 @@ https://zenn.dev/nhandsome/articles/semantic-if-without-generation
 
 ![데모. 왼쪽은 회의 화면과 아젠다 신호등, 오른쪽은 로컬 음성인식과 Jev 판정이 도는 개발자 화면. 다섯 개 아젠다의 신호가 회의 진행에 따라 🔴에서 🟡, 🟢으로 바뀐다. 16배속.](/images/agenda-signal/agenda-signal-demo.gif)
 
-코드와 데이터셋은 전부 [GitHub](https://github.com/nhandsome-new/jev-agenda-signal)에 올려 뒀습니다.
+코드와 데이터셋은 전부 올려 뒀습니다.
+
+https://github.com/nhandsome-new/jev-agenda-signal
 
 ---
 
