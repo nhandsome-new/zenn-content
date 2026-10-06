@@ -1,5 +1,5 @@
 ---
-title: "판단 모델은 입력 설계로 2.4배가 된다 — 치즈 미로 220판"
+title: "치즈 미로 게임으로 판단 모델의 입력을 다시 설계했더니 점수가 2.4배"
 emoji: "🧀"
 type: "tech"
 topics: ["ai", "llm", "upstage", "solar", "agent"]

@@ -1,5 +1,5 @@
 ---
-title: "判断モデルは入力の設計で2.4倍になる — チーズ迷路220戦"
+title: "チーズ迷路ゲームで判断モデルの入力を設計し直したら、スコアが2.4倍になった"
 emoji: "🧀"
 type: "tech"
 topics: ["ai", "llm", "upstage", "solar", "agent"]
