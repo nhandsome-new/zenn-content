@@ -1,5 +1,5 @@
 ---
-title: "치즈 미로 220판, 판단 모델은 입력 설계만으로 2.4배가 됐다"
+title: "판단 모델은 입력 설계로 2.4배가 된다 — 치즈 미로 220판"
 emoji: "🧀"
 type: "tech"
 topics: ["ai", "llm", "upstage", "solar", "agent"]
