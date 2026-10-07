@@ -3,7 +3,7 @@ title: "AIが書いた日本語をyomiyasuで採点して、指摘どおりに�
 emoji: "📝"
 type: "tech"
 topics: ["ai", "llm", "upstage", "solar", "japanese"]
-published: false
+published: true
 ---
 *このブログは、エージェントが資料の突き合わせと実験を行って下書きを作り、筆者が確認したうえで掲載しています。*
 
