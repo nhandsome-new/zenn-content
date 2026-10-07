@@ -43,7 +43,7 @@ yomiyasu の中身は二つです。一つは、AIが読んで文章を直すた
 | 書き直し | 1回目の評価結果をフィードバックとして渡し、yomiyasu の手引きに沿って各モデルが自分の文章を書き直す |
 | 2回目の評価 | 1回目と同じ方法 |
 
-Solar Decide は、[前回の記事](https://zenn.dev/nhandsome/articles/decision-model-input-design)でチーズ迷路ゲームを任せた判断モデルです。今回は文章を判定する役に置きました。二つの評価は同じ12項目、同じ減点を使います。違うのは、**パターンを数えるか、文章を読んで判断するか**という点です。
+Solar Decide は、[前回の記事](https://zenn.dev/nhandsome/articles/decision-model-input-design)でチーズ迷路ゲームを任せた判断モデルです。今回は文章を判定する役に置きました。
 
 ```mermaid
 flowchart LR

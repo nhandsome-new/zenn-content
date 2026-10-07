@@ -43,7 +43,7 @@ yomiyasu는 두 부분으로 되어 있습니다. 하나는 AI가 읽고 글을 
 | 다시 쓰기 | 1차 평가 결과를 피드백으로 주고, yomiyasu 매뉴얼에 따라 각 모델이 자기 글을 다시 씀 |
 | 2차 평가 | 1차와 같은 방식 |
 
-Solar Decide는 [지난 편](https://zenn.dev/nhandsome/articles/decision-model-input-design)에서 치즈 미로 게임을 맡긴 판단 모델입니다. 이번에는 글을 판정하는 자리에 놓았습니다. 두 평가는 같은 12항목에 같은 감점을 씁니다. 다른 것은 **패턴을 세느냐, 글을 읽고 판단하느냐**뿐입니다.
+Solar Decide는 [지난 편](https://zenn.dev/nhandsome/articles/decision-model-input-design)에서 치즈 미로 게임을 맡긴 판단 모델입니다. 이번에는 글을 판정하는 자리에 놓았습니다.
 
 ```mermaid
 flowchart LR
