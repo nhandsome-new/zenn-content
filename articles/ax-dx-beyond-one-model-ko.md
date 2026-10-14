@@ -1,5 +1,5 @@
 ---
-title: "AX/DX는 어디서 막히는가 — 기술·모델 하나로 끝나지 않는 여러 단계"
+title: "AI를 들였는데 왜 현장은 그대로일까 — 기술·모델만으로는 넘을 수 없는 허들"
 emoji: "🚧"
 type: "idea"
 topics: ["ai", "llm", "agent", "dx", "upstage"]

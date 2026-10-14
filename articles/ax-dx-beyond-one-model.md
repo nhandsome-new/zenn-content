@@ -1,5 +1,5 @@
 ---
-title: "AX/DXはどこで止まるのか：技術・モデルひとつでは終わらない、いくつもの段階"
+title: "AIを入れたのに、なぜ現場は変わらないのか：技術・モデルだけでは越えられないハードル"
 emoji: "🚧"
 type: "idea"
 topics: ["ai", "llm", "agent", "dx", "upstage"]
